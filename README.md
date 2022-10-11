@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- GitHub: [Add solution URL here](https://github.com/ericpatricio/sunnyside-landing-page)
+- Live Site URL: [Add live site URL here](https://helpful-profiterole-a063b9.netlify.app/)
 
 ### Built with
 
@@ -45,6 +45,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://ericpatricioportfolio.tech)
+- Website - [Eric Patricio](https://ericpatricioportfolio.tech)
 - Frontend Mentor - [@ericpatricio](https://www.frontendmentor.io/profile/ericpatricio)
 - Twitter - [@ericpatricio](https://www.twitter.com/ericpatricio)
